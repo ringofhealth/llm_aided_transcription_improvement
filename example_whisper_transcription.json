@@ -1,0 +1,1310 @@
+[
+    {
+        "start":0.04,
+        "end":4.88,
+        "text":" what is the cycle of fourths and fifths why is it so important for us",
+        "avg_logprob":-0.25
+    },
+    {
+        "start":4.88,
+        "end":10.44,
+        "text":" specifically as guitar players and what's happening there alright so I'm gonna come",
+        "avg_logprob":-0.25
+    },
+    {
+        "start":10.44,
+        "end":15.78,
+        "text":" clean and confess when I start playing guitar I just want to play chords want",
+        "avg_logprob":-0.25
+    },
+    {
+        "start":15.78,
+        "end":18.36,
+        "text":" to solo",
+        "avg_logprob":-0.25
+    },
+    {
+        "start":19.62,
+        "end":25.4,
+        "text":" want to play cool stuff now that's awesome but I didn't want to understand theory",
+        "avg_logprob":-0.25
+    },
+    {
+        "start":25.4,
+        "end":28.6,
+        "text":" and that was a big mistake the reason I'm saying it's a mistake because",
+        "avg_logprob":-0.25
+    },
+    {
+        "start":28.6,
+        "end":36.46,
+        "text":" imagine okay an alien comes to my room she they are trying to get out and they",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":36.46,
+        "end":41.06,
+        "text":" don't know where the door is because this closet did the wall the door the",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":41.06,
+        "end":44.1,
+        "text":" window they all look very similar with different handles they don't even know",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":44.1,
+        "end":49.04,
+        "text":" it's a handle so the theoretical information of knowing what is the door",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":49.04,
+        "end":54.7,
+        "text":" can get them into a different space of sound these these kind of elements are",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":54.7,
+        "end":58.56,
+        "text":" being used oftentimes in movies right when you want to kind of express",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":58.56,
+        "end":58.58,
+        "text":" something you want to express something you want to express something",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":58.58,
+        "end":63.02,
+        "text":" this is like almost strange thing that is happening you know you heard this",
+        "avg_logprob":-0.2
+    },
+    {
+        "start":63.02,
+        "end":68.6,
+        "text":" sound before because these two centers are far apart there is that music that we",
+        "avg_logprob":-0.2
+    },
+    {
+        "start":68.6,
+        "end":73.52,
+        "text":" know is being created that is articulating that feeling of like wow",
+        "avg_logprob":-0.2
+    },
+    {
+        "start":73.52,
+        "end":77.94,
+        "text":" this is really far this is strange in a way oh if you're feeling this video and",
+        "avg_logprob":-0.2
+    },
+    {
+        "start":77.94,
+        "end":81.56,
+        "text":" getting some value please click the like button please subscribe and maybe turn",
+        "avg_logprob":-0.2
+    },
+    {
+        "start":81.56,
+        "end":85.82,
+        "text":" the notifications on thank you music is sort of like shifting between",
+        "avg_logprob":-0.2
+    },
+    {
+        "start":85.82,
+        "end":88.44,
+        "text":" geographical point it's sort of like coordinates so seeming like you're in a",
+        "avg_logprob":-0.2
+    },
+    {
+        "start":88.44,
+        "end":93.3,
+        "text":" C major scale is one play this is home base but then when I'm going to visit my",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":93.3,
+        "end":98.44,
+        "text":" friend in China maybe that's a flat it's kind of far from me and then maybe I'm",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":98.44,
+        "end":104.44,
+        "text":" gonna say hi back to my mom in New York then I'm going to F major which is my",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":104.44,
+        "end":108.26,
+        "text":" body in Queens my mom actually lives in Israel so I should have given that as",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":108.26,
+        "end":113.24,
+        "text":" an example but anyway you get so it's like coordinates so we want to understand",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":113.24,
+        "end":118.32,
+        "text":" the situation of how we're going from point A to point B and how and what the",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":118.44,
+        "end":122.94,
+        "text":" devices we can utilize to do that so if we understand the logic not only the",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":122.94,
+        "end":127.68,
+        "text":" sequence of flat and sharp which is cool and we'll go over that but also the logic",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":127.68,
+        "end":132.72,
+        "text":" then we're in a good place let's do this all right so a lot of you probably have",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":132.72,
+        "end":136.26,
+        "text":" seen these kind of diagrams they're great there's no problem it but I want",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":136.26,
+        "end":138.76,
+        "text":" to understand and I want to understand the sound that we're talking about so",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":138.76,
+        "end":143.28,
+        "text":" first there are two cycles that we're talking often about cycle of fourth and",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":143.28,
+        "end":148.2,
+        "text":" cycle of fifth what is that fourth is basically one two three four literally",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":148.44,
+        "end":155.94,
+        "text":" one two three four if we're in the key of C major C D E F and guitar is actually",
+        "avg_logprob":-0.16
+    },
+    {
+        "start":155.94,
+        "end":161.22,
+        "text":" tuned in that kind of way so the fourth system is a huge part of guitar because",
+        "avg_logprob":-0.16
+    },
+    {
+        "start":161.22,
+        "end":166.62,
+        "text":" the open strings E A D G this is all fourth between G and B we have a major",
+        "avg_logprob":-0.16
+    },
+    {
+        "start":166.62,
+        "end":171.36,
+        "text":" third and again a fourth here so a fourth is a huge part of the sound of",
+        "avg_logprob":-0.16
+    },
+    {
+        "start":171.36,
+        "end":176.44,
+        "text":" this instrument what is the fifth one two three four five C D E F G",
+        "avg_logprob":-0.16
+    },
+    {
+        "start":178.44,
+        "end":183.84,
+        "text":" that's a fifth and this is the visual kind of cue in a way that we play on",
+        "avg_logprob":-0.26
+    },
+    {
+        "start":183.84,
+        "end":186.96,
+        "text":" guitar this is right there",
+        "avg_logprob":-0.26
+    },
+    {
+        "start":189.9,
+        "end":196.82,
+        "text":" the cycle of fourth so I'm taking C major C major scale as a sound this is",
+        "avg_logprob":-0.26
+    },
+    {
+        "start":196.82,
+        "end":203.44,
+        "text":" my template I'm actually using Ionian C major scale I'm gonna copy-paste",
+        "avg_logprob":-0.26
+    },
+    {
+        "start":203.44,
+        "end":205.94,
+        "text":" that sound",
+        "avg_logprob":-0.26
+    },
+    {
+        "start":205.94,
+        "end":207.94,
+        "text":" C D E F G A B C",
+        "avg_logprob":-0.26
+    },
+    {
+        "start":208.44,
+        "end":213.16,
+        "text":" into the next key the next key is going to be a fourth up how do I know what's a",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":213.16,
+        "end":217.74,
+        "text":" fourth up well we just talked about it but okay so now I'm gonna start from the",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":217.74,
+        "end":222.72,
+        "text":" note F the same sound so",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":226.06,
+        "end":233.32,
+        "text":" that's my B flat and that's the big change because one two three four whole",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":233.32,
+        "end":237.06,
+        "text":" tone whole step",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":238.44,
+        "end":246.18,
+        "text":" and you see I'm getting the same sound of the F major scale from the note F and",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":246.18,
+        "end":253.2,
+        "text":" then I get one flat which is B flat the next key from F would be B flat why is",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":253.2,
+        "end":259.36,
+        "text":" that because I'm going a fourth up from F one two three four that's it it's that",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":259.36,
+        "end":263.94,
+        "text":" simple so from the note B flat I'll play it here just because it's easier B flat",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":263.94,
+        "end":267.9,
+        "text":" C D E flat 1 2 3 4",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":268.44,
+        "end":278.28,
+        "text":" floor again has changed it's a flat it's an e flat so i have b flat e flat so b flat c d e flat f g",
+        "avg_logprob":-0.09
+    },
+    {
+        "start":278.28,
+        "end":285.4,
+        "text":" a b flat so in the key of b flat we have two flats and this is how we start shifting and diverging",
+        "avg_logprob":-0.09
+    },
+    {
+        "start":285.4,
+        "end":291.48,
+        "text":" from c now it's important to note that in the key of c major we have zero accidentals the key of f",
+        "avg_logprob":-0.09
+    },
+    {
+        "start":291.48,
+        "end":297.64,
+        "text":" major we have one that's b flat that means that these two keys share a lot of the chords well",
+        "avg_logprob":-0.09
+    },
+    {
+        "start":297.64,
+        "end":301.96,
+        "text":" they actually share almost all the chords and they share almost all the notes except one note",
+        "avg_logprob":-0.05
+    },
+    {
+        "start":301.96,
+        "end":310.52,
+        "text":" which is a b flat so that means that we can shift from the key of c major to f major very easily and",
+        "avg_logprob":-0.05
+    },
+    {
+        "start":310.52,
+        "end":316.76,
+        "text":" actually when you come to think about it in music it's been done so much these two keys are very",
+        "avg_logprob":-0.05
+    },
+    {
+        "start":316.76,
+        "end":323.0,
+        "text":" close by so we'll shift oftentimes between these two centers the same thing when we talk about",
+        "avg_logprob":-0.05
+    },
+    {
+        "start":323.0,
+        "end":327.56,
+        "text":" the charts between c and g these are two centers that are very close so it's extremely",
+        "avg_logprob":-0.05
+    },
+    {
+        "start":327.64,
+        "end":332.76,
+        "text":" easy to shift with one note one chord and boom you're in another center which is refreshing as",
+        "avg_logprob":-0.03
+    },
+    {
+        "start":332.76,
+        "end":344.84,
+        "text":" well now from e flat here i'm basically playing again e flat major scale and i'm getting the",
+        "avg_logprob":-0.03
+    },
+    {
+        "start":344.84,
+        "end":351.8,
+        "text":" flats that i'm curious about and you see i'm stacking them so f had one b flat had two e flat",
+        "avg_logprob":-0.03
+    },
+    {
+        "start":351.8,
+        "end":357.08,
+        "text":" has three and these flats are being added so in the key of e flat we have the one the first one",
+        "avg_logprob":-0.03
+    },
+    {
+        "start":357.64,
+        "end":360.44,
+        "text":" b flat we have the second one which is e flat and we also have a flat",
+        "avg_logprob":-0.11
+    },
+    {
+        "start":367.8,
+        "end":372.28,
+        "text":" this is going to be the same case in every key we have the flat and we're just stacking",
+        "avg_logprob":-0.11
+    },
+    {
+        "start":372.28,
+        "end":376.44,
+        "text":" one more in the next key the next key again we're going the second or fourth",
+        "avg_logprob":-0.11
+    },
+    {
+        "start":376.44,
+        "end":383.08,
+        "text":" is going to be again a fourth up and with guitar you can see that it's literally that motion",
+        "avg_logprob":-0.11
+    },
+    {
+        "start":387.64,
+        "end":393.64,
+        "text":" is or g flat equals f sharp we'll talk about in a second okay so we pause here now we're in a flat",
+        "avg_logprob":-0.11
+    },
+    {
+        "start":393.64,
+        "end":403.72,
+        "text":" major a flat major a flat b flat c b flat b flat f g a flat right these are the notes again you can",
+        "avg_logprob":-0.11
+    },
+    {
+        "start":403.72,
+        "end":409.56,
+        "text":" hear the sound of the major scale starting from this note and in order for me to create the sound",
+        "avg_logprob":-0.11
+    },
+    {
+        "start":409.56,
+        "end":416.84,
+        "text":" of c major scale from a flat i basically have to use these flats in the right places and indeed i",
+        "avg_logprob":-0.11
+    },
+    {
+        "start":417.8,
+        "end":422.36,
+        "text":" used a skill to do so i think from this again you can sometimes really get sleep at your best",
+        "avg_logprob":-1.78
+    },
+    {
+        "start":423.08,
+        "end":431.32,
+        "text":" and then from a flat a bb b flat e flat a flat and d flat four flats in the key of a flat",
+        "avg_logprob":-1.78
+    },
+    {
+        "start":432.12,
+        "end":438.84,
+        "text":" and the next key you know it d flat will have five flats so that means basically the four that",
+        "avg_logprob":-1.78
+    },
+    {
+        "start":438.84,
+        "end":442.68,
+        "text":" we had plus one so",
+        "avg_logprob":-1.78
+    },
+    {
+        "start":442.68,
+        "end":446.18,
+        "text":" Again, the color starting from that note, the D flat.",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":446.18,
+        "end":448.16,
+        "text":" And on guitar, it's extremely easy",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":448.16,
+        "end":450.94,
+        "text":" because we can shift it and we can see these notes",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":450.94,
+        "end":452.16,
+        "text":" in a hopefully clear way.",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":452.16,
+        "end":454.98,
+        "text":" Now, I would say that when you're working on this,",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":454.98,
+        "end":457.6,
+        "text":" try to ask yourself and try to make sure",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":457.6,
+        "end":459.46,
+        "text":" you understand it and see it.",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":459.46,
+        "end":463.3,
+        "text":" We wanna also understand the degrees in these keys.",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":463.3,
+        "end":466.74,
+        "text":" So for example, if I am talking about the key of A flat,",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":466.74,
+        "end":471.52,
+        "text":" I wanna know, oh, one, two, three, four, five, six, seven.",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":471.52,
+        "end":476.52,
+        "text":" Okay, so one, two, three, four, five, six, seven, one.",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":478.0,
+        "end":479.64,
+        "text":" What are the chords in the key of A flat?",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":479.64,
+        "end":481.94,
+        "text":" And this is where the cycle of fourth",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":481.94,
+        "end":483.48,
+        "text":" really comes into life",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":483.48,
+        "end":485.88,
+        "text":" because we start to understand the relationship",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":485.88,
+        "end":487.04,
+        "text":" between these centers.",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":487.04,
+        "end":488.44,
+        "text":" Let's just finish the flats",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":488.44,
+        "end":490.7,
+        "text":" and then I'll explain a little bit more about that.",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":490.7,
+        "end":492.1,
+        "text":" Okay, so we have D flat",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":492.1,
+        "end":495.96,
+        "text":" and then the next one is six flats and this is G flat.",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":495.96,
+        "end":499.26,
+        "text":" Oftentimes, G flat equals F sharp,",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":499.26,
+        "end":500.6,
+        "text":" so this is kind of a hinge point",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":500.6,
+        "end":501.52,
+        "text":" where we shift.",
+        "avg_logprob":-0.1
+    },
+    {
+        "start":501.52,
+        "end":503.4,
+        "text":" We shift to the sharp side.",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":503.4,
+        "end":505.12,
+        "text":" You can see in this diagram as well.",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":505.12,
+        "end":508.26,
+        "text":" Basically, you can continue on if you wanted to,",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":508.26,
+        "end":510.04,
+        "text":" but it's just a lot of flats and sharp.",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":510.04,
+        "end":511.38,
+        "text":" It's totally possible,",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":511.38,
+        "end":513.52,
+        "text":" but it's just for convenience reasons,",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":513.52,
+        "end":515.7,
+        "text":" we kind of shift to the other side oftentimes.",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":515.7,
+        "end":517.96,
+        "text":" So G flat would be",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":517.96,
+        "end":522.96,
+        "text":" G flat, A flat, B flat, C flat, D flat, A flat, F, G flat.",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":525.04,
+        "end":527.94,
+        "text":" So again, a lot of accidentals here, right?",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":527.94,
+        "end":529.3,
+        "text":" But we're still doing that",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":529.3,
+        "end":531.16,
+        "text":" in order to get the sound of C major.",
+        "avg_logprob":-0.14
+    },
+    {
+        "start":531.52,
+        "end":533.6,
+        "text":" When I started working on the cycle of fourth",
+        "avg_logprob":-0.15
+    },
+    {
+        "start":533.6,
+        "end":535.36,
+        "text":" and understanding these two cycles,",
+        "avg_logprob":-0.15
+    },
+    {
+        "start":535.36,
+        "end":538.06,
+        "text":" I did memorize the names of these notes.",
+        "avg_logprob":-0.15
+    },
+    {
+        "start":538.06,
+        "end":540.52,
+        "text":" So where are the flats?",
+        "avg_logprob":-0.15
+    },
+    {
+        "start":540.52,
+        "end":544.34,
+        "text":" So basically, C, E, La, Re, Sol, Do, Fa,",
+        "avg_logprob":-0.15
+    },
+    {
+        "start":544.34,
+        "end":549.34,
+        "text":" B flat, E flat, A flat, D flat, G flat, C flat, and F flat.",
+        "avg_logprob":-0.15
+    },
+    {
+        "start":550.58,
+        "end":552.64,
+        "text":" So these are the flats, right?",
+        "avg_logprob":-0.15
+    },
+    {
+        "start":552.64,
+        "end":555.58,
+        "text":" And it's actually only reversed when you go to the sharp,",
+        "avg_logprob":-0.15
+    },
+    {
+        "start":555.58,
+        "end":556.62,
+        "text":" so it's kind of cool.",
+        "avg_logprob":-0.15
+    },
+    {
+        "start":556.62,
+        "end":561.12,
+        "text":" F sharp, C sharp, G sharp, D sharp, A sharp, F sharp,",
+        "avg_logprob":-0.15
+    },
+    {
+        "start":561.52,
+        "end":563.52,
+        "text":" and B sharp.",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":563.52,
+        "end":565.74,
+        "text":" When we're talking about the sharp side,",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":565.74,
+        "end":568.52,
+        "text":" we're starting from C major, that sound,",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":568.52,
+        "end":569.8,
+        "text":" and we're going a fifth up.",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":569.8,
+        "end":571.02,
+        "text":" What is a fifth up?",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":571.02,
+        "end":573.84,
+        "text":" Do, Re, Mi, Fa, Sol, Do, Sol.",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":573.84,
+        "end":574.92,
+        "text":" Okay, Sol.",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":574.92,
+        "end":576.86,
+        "text":" So that's a fifth up, that's G.",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":576.86,
+        "end":579.46,
+        "text":" And now I'm gonna build the C major scale from G.",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":579.46,
+        "end":581.72,
+        "text":" So basically, I'm playing G major scale, right?",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":581.72,
+        "end":585.14,
+        "text":" Sol, La, Si, Do, Re, Mi, Fa, Sol.",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":585.14,
+        "end":586.56,
+        "text":" Ah, here it is.",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":586.56,
+        "end":588.22,
+        "text":" Whole step, whole step, half step,",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":588.22,
+        "end":590.4,
+        "text":" whole, whole, whole, and a half, right?",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":590.4,
+        "end":591.44,
+        "text":" So I get this F sharp.",
+        "avg_logprob":-0.18
+    },
+    {
+        "start":591.52,
+        "end":592.36,
+        "text":" Great.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":595.36,
+        "end":599.96,
+        "text":" From G major, the next one in the cycle of fifth",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":599.96,
+        "end":601.86,
+        "text":" is D major, so I'm going a fourth up.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":601.86,
+        "end":605.6,
+        "text":" So now I'm building C major scale from the note D.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":605.6,
+        "end":606.44,
+        "text":" So,",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":608.16,
+        "end":609.0,
+        "text":" let's try.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":609.0,
+        "end":614.0,
+        "text":" Re, Mi, Fa, Di, Sol, La, Si, Do, Di, Re.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":615.6,
+        "end":617.18,
+        "text":" That's D major scale.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":617.18,
+        "end":620.02,
+        "text":" So we have two sharps.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":620.02,
+        "end":621.24,
+        "text":" Next one, you know it.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":621.24,
+        "end":622.48,
+        "text":" One, two, three, four, five.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":622.48,
+        "end":625.3,
+        "text":" If this is D major, the next one is A major.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":625.3,
+        "end":627.04,
+        "text":" Exactly the same way we did, if you remember,",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":627.04,
+        "end":629.48,
+        "text":" with the cycle of fourth, but just flipped.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":630.74,
+        "end":635.22,
+        "text":" So C, zero, G, one, D, two, A major.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":635.22,
+        "end":640.22,
+        "text":" We'll have three, like you can see, E, whoop, with a six.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":644.28,
+        "end":649.28,
+        "text":" Four, Mi, Fa, Sol, La, Si, Do, Re, Mi, La, Do, Si, La, Sol.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":651.24,
+        "end":652.58,
+        "text":" Fa, Mi.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":652.58,
+        "end":656.08,
+        "text":" And it's important to connect to the sound and compare.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":656.08,
+        "end":658.36,
+        "text":" So check out how this sounds.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":658.36,
+        "end":661.48,
+        "text":" C major, I can play, you know, a few chords.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":667.2,
+        "end":670.54,
+        "text":" And then, whoa, E major,",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":670.54,
+        "end":673.3,
+        "text":" just sounds like a complete new universe.",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":673.3,
+        "end":675.42,
+        "text":" This is one of the reason we wanna understand",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":675.42,
+        "end":678.4,
+        "text":" and control this cycle of fourth and fifth,",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":678.4,
+        "end":681.24,
+        "text":" to know what is the location, what is close,",
+        "avg_logprob":-0.21
+    },
+    {
+        "start":681.24,
+        "end":683.24,
+        "text":" what is far, how can we get that?",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":683.24,
+        "end":685.82,
+        "text":" How can we shift, maybe with a little diminish,",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":685.82,
+        "end":688.78,
+        "text":" to this other location, which is further away,",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":688.78,
+        "end":690.58,
+        "text":" but then we can find a hinge chord,",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":690.58,
+        "end":692.72,
+        "text":" a chord that exists in the two keys,",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":692.72,
+        "end":696.08,
+        "text":" to kind of smoothly shift back.",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":696.08,
+        "end":698.86,
+        "text":" So I know this is theory, but it's not theory.",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":698.86,
+        "end":702.22,
+        "text":" This is actually music, this is actually the sound.",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":702.22,
+        "end":705.06,
+        "text":" So understanding that is super crucial.",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":705.06,
+        "end":708.12,
+        "text":" Okay, so we did E major, now B major.",
+        "avg_logprob":-0.13
+    },
+    {
+        "start":711.24,
+        "end":713.34,
+        "text":" Sol, di, es, la, di, and si.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":713.34,
+        "end":715.32,
+        "text":" So this is the sound of C major from B,",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":715.32,
+        "end":717.46,
+        "text":" and I'm starting to get more and more accidentals.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":717.46,
+        "end":720.34,
+        "text":" This is five accidentals, and then I'm stacking them again.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":720.34,
+        "end":723.66,
+        "text":" And F sharp would be six accidentals,",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":723.66,
+        "end":724.74,
+        "text":" like you can see.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":726.78,
+        "end":728.9,
+        "text":" And when we're saying F sharp,",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":728.9,
+        "end":731.28,
+        "text":" instead of going then to C sharp, which we can,",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":731.28,
+        "end":734.44,
+        "text":" we can decide it in the chord F sharp,",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":734.44,
+        "end":736.58,
+        "text":" we shift back to G flat,",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":736.58,
+        "end":738.9,
+        "text":" and then we go back to the flat side.",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":738.9,
+        "end":740.98,
+        "text":" So we kind of get to five",
+        "avg_logprob":-0.22
+    },
+    {
+        "start":740.98,
+        "end":743.48,
+        "text":" or six accidentals, but then we shift to the other side,",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":743.48,
+        "end":745.2,
+        "text":" instead of stacking seven, eight, nine, 10,",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":745.2,
+        "end":747.16,
+        "text":" and then it just gets a little crazy.",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":747.16,
+        "end":750.24,
+        "text":" Possible if you want it, but it's not super necessary.",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":750.24,
+        "end":752.58,
+        "text":" What is important for us to understand",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":752.58,
+        "end":755.56,
+        "text":" is the relationship within the key.",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":755.56,
+        "end":760.56,
+        "text":" How we get from one key, C major, to F major,",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":760.64,
+        "end":762.94,
+        "text":" and what are the notes that entails",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":762.94,
+        "end":764.74,
+        "text":" that sound of the major scale,",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":764.74,
+        "end":767.02,
+        "text":" and how are we getting these flats?",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":767.02,
+        "end":769.4,
+        "text":" It's important to memorize the cycle,",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":769.4,
+        "end":770.88,
+        "text":" but also to understand",
+        "avg_logprob":-0.12
+    },
+    {
+        "start":770.88,
+        "end":774.34,
+        "text":" and if you're not sure about it, just slow it down.",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":774.34,
+        "end":777.26,
+        "text":" Playing this music, we really feel the sort of like",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":777.26,
+        "end":780.76,
+        "text":" expansion and contraction of these keys.",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":780.76,
+        "end":782.38,
+        "text":" And it's really beautiful.",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":782.38,
+        "end":785.0,
+        "text":" Try to feel it and think about it as location,",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":785.0,
+        "end":788.58,
+        "text":" as a graphic, sorry, geographical places,",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":788.58,
+        "end":791.16,
+        "text":" sort of like coordinates.",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":791.16,
+        "end":793.46,
+        "text":" And then I think it makes a lot of sense",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":793.46,
+        "end":795.8,
+        "text":" that C major feels in a certain way",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":795.8,
+        "end":800.46,
+        "text":" and E major feels in a complete different way, right?",
+        "avg_logprob":-0.17
+    },
+    {
+        "start":800.46,
+        "end":802.7,
+        "text":" Just the sound shifting from here.",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":808.58,
+        "end":812.1,
+        "text":" And then, wow, I'm in a different place.",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":812.1,
+        "end":814.66,
+        "text":" I just traveled afar.",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":814.66,
+        "end":815.84,
+        "text":" Thank you so much for listening.",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":815.84,
+        "end":818.58,
+        "text":" If someone is interested to share it to a friend",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":818.58,
+        "end":820.58,
+        "text":" that might not be super clear",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":820.58,
+        "end":822.76,
+        "text":" about the second, fourth, and fifth, please do,",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":822.76,
+        "end":824.64,
+        "text":" and I'll see you next week.",
+        "avg_logprob":-0.19
+    },
+    {
+        "start":824.64,
+        "end":825.48,
+        "text":" Peace.",
+        "avg_logprob":-0.19
+    }
+]

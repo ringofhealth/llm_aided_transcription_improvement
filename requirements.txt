@@ -1,0 +1,12 @@
+anthropic
+aiolimiter
+backoff
+filelock
+llama-cpp-python
+nvgpu
+openai
+python-decouple
+ruff
+tenacity
+tiktoken
+transformers
