@@ -11,7 +11,7 @@ To see what the LLM-Aided Transcription Project can do, check out these example 
 - [Original Transcript JSON File (Output from Whisper)](https://github.com/Dicklesworthstone/llm_aided_transcription_improvement/blob/main/example_whisper_transcription.json) 
 - [Final LLM Generated Markdown](https://github.com/Dicklesworthstone/llm_aided_transcription_improvement/blob/main/formatted_transcription.md)
 
-| ![Screenshot 1]() | ![Screenshot 2]() |
+| ![Screenshot 1](https://raw.githubusercontent.com/Dicklesworthstone/llm_aided_transcription_improvement/main/markdown_output_screenshot.webp) | ![Screenshot 2](https://raw.githubusercontent.com/Dicklesworthstone/llm_aided_transcription_improvement/main/json_input_screenshot.webp) |
 |:--:|:--:|
 | *Input: Original Transcript JSON File* | *Output: Final LLM Generated Markdown* |
 
