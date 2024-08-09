@@ -201,11 +201,7 @@ The LLM-Aided Transcription project employs a multi-step process to transform ra
 ## Limitations and Future Improvements
 
 - The system's performance is heavily dependent on the quality of the LLM used.
-- Processing very large transcriptions can be time-consuming and may require significant computational resources.
-- Future improvements could include:
-  - Support for more LLM providers
-  - Enhanced error handling and recovery mechanisms
-  - Integration with real-time transcription systems
+- The LLMs could make stuff up, so it's important to check the output.
 
 ## Contributing
 
