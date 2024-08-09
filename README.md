@@ -9,7 +9,11 @@ The LLM-Aided Transcription Improvement Project is an advanced system designed t
 To see what the LLM-Aided Transcription Project can do, check out these example outputs:
 
 - [Original Transcript JSON File (Output from Whisper)](https://github.com/Dicklesworthstone/llm_aided_transcription_improvement/blob/main/example_whisper_transcription.json) 
-- [Final LLM Generated Markdown Transcript](https://github.com/Dicklesworthstone/llm_aided_transcription_improvement/blob/main/formatted_transcription.md)
+- [Final LLM Generated Markdown](https://github.com/Dicklesworthstone/llm_aided_transcription_improvement/blob/main/formatted_transcription.md)
+
+| ![Screenshot 1]() | ![Screenshot 2]() |
+|:--:|:--:|
+| *Input: Original Transcript JSON File* | *Output: Final LLM Generated Markdown* |
 
 ## Features
 
