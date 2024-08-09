@@ -200,7 +200,7 @@ The LLM-Aided Transcription project employs a multi-step process to transform ra
 - **Adaptive Token Management**: The system dynamically adjusts the number of tokens used for LLM requests based on input size and model constraints.
 - **GPU Acceleration**: For local LLMs, the system attempts to use GPU acceleration when available.
 
-## Limitations and Future Improvements
+## Limitations
 
 - The system's performance is heavily dependent on the quality of the LLM used.
 - The LLMs could make stuff up, so it's important to check the output.
