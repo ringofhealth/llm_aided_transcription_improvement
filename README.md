@@ -13,7 +13,7 @@ To see what the LLM-Aided Transcription Project can do, check out these example 
 
 | ![Screenshot 1](https://raw.githubusercontent.com/Dicklesworthstone/llm_aided_transcription_improvement/main/markdown_output_screenshot.webp) | ![Screenshot 2](https://raw.githubusercontent.com/Dicklesworthstone/llm_aided_transcription_improvement/main/json_input_screenshot.webp) |
 |:--:|:--:|
-| *Input: Original Transcript JSON File* | *Output: Final LLM Generated Markdown* |
+| ***Input**: Original Transcript JSON File* | ***Output**: Final LLM Generated Markdown* |
 
 ## Features
 
